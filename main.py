@@ -3,9 +3,7 @@ from pitch import *
 from players import *
 import time
 
-
 stop = False
-
 
 turtle.listen()
 turtle.onkey(moveUp_1_A,'w')
