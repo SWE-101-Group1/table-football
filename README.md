@@ -1,10 +1,9 @@
 # table-football
 In this project we have created a simple game in python using turtle library 
 
-To play the game you have to clone the files use git clone git@github.com:SWE-101-Group1/table-football.git 
+In order to play the game you need to download the files
 
-Please note that these files are protected by password. 
+After you download the game double click main.exe
 
-If you want the password please contact sprendi20@epoka.edu.al
 
 Enjoy the game :)
